@@ -57,3 +57,7 @@ Al terminar la actividad, el estudiante será capaz de:
 
 ## Nota importante
 **Primero documenta y justifica la idea; después, de forma opcional, implementa un prototipo pequeño.**
+
+## Ensayo Personal
+
+Consulta el ensayo en [`docs/ensayo_personal.md`](docs/ensayo_personal.md).
